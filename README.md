@@ -24,7 +24,8 @@ Os exercícios estão organizados em arquivos numerados:
     ...
     - Exercicio027_MediaEscolarEx2(no momento)
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
+
     - Java
     - Eclipse IDE
     - Visual Studio Code
@@ -40,8 +41,8 @@ Durante a realização destes exercícios foram praticados conceitos essenciais 
     - Resolução de problemas utilizando algoritmos
 
 
-Autora
-Talita da Silveira Marroni
+Autora:
+    Talita da Silveira Marroni
 
 GitHub
 
