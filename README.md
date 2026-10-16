@@ -21,8 +21,8 @@ Os exercícios estão organizados em arquivos numerados:
     - Exercicio001_BoasVindas
     - Exercicio002_BoasVindasPersonalizadas
     - Exercicio003_SalarioFuncionario
-...
-Exercicio027_MediaEscolarEx2(no momento)
+    ...
+    - Exercicio027_MediaEscolarEx2(no momento)
 
 Tecnologias Utilizadas
     - Java
