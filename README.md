@@ -1,49 +1,43 @@
 Algoritmos Java
-Repositório contendo exercícios de Lógica de Programação desenvolvidos em Java durante meus estudos de programação.
+
+    Repositório dedicado à prática de Lógica de Programação e aos fundamentos da linguagem Java, por meio da resolução de exercícios progressivos.
 
 Objetivo
-Praticar conceitos fundamentais de lógica de programação e desenvolvimento em Java através da resolução de exercícios progressivos.
+    Desenvolver e reforçar os conhecimentos em lógica de programação e sintaxe Java, praticando a resolução de problemas e aplicando boas práticas de programação.
+
+Exercícios
+
+    Os exercícios estão sendo desenvolvidos em ordem crescente de dificuldade.
+
+Atualmente, foram concluídos os exercícios:
+
+    - Exercício 001: Olá, Mundo!
+    - Exercício 002: Boas-vindas Personalizadas
+    - Exercício 003: Salário do Funcionário
 
 Conteúdos Praticados
-  - Variáveis e tipos de dados
-  - Entrada e saída de dados
-  - Operadores matemáticos
-  - Estruturas condicionais
-  - Estruturas de repetição
-  - Cálculos matemáticos
-  - Manipulação de dados
-  - Algoritmos básicos
 
-    
-Estrutura do Projeto
-Os exercícios estão organizados em arquivos numerados:
+    - Estrutura básica de um programa Java
+    - Método main
+    - Variáveis e tipos de dados
+    - Entrada de dados com Scanner
+    - Saída de dados com print, println e printf
+    - Concatenação de textos
+    - Formatação de valores
+    - Gerenciamento de recursos com try-with-resources
 
-    - Exercicio001_BoasVindas
-    - Exercicio002_BoasVindasPersonalizadas
-    - Exercicio003_SalarioFuncionario
-    ...
-    - Exercicio027_MediaEscolarEx2(no momento)
+Tecnologias Utilizadas
 
-Tecnologias Utilizadas:
-
-    - Java
-    - Eclipse IDE
+    - Java 21 (JDK)
     - Visual Studio Code
 
 Aprendizados
-Durante a realização destes exercícios foram praticados conceitos essenciais para o desenvolvimento de software, incluindo:
 
-    - Estruturas condicionais (if, else if, else)
-    - Estruturas de repetição (for, while)
-    - Variáveis e operadores
-    - Entrada de dados com Scanner
-    - Organização de código
-    - Resolução de problemas utilizando algoritmos
+    O projeto faz parte da minha jornada de aprendizado em programação. Estou refazendo os exercícios desde o início para fortalecer minha base em Java, melhorar a organização do código e desenvolver o hábito de aplicar boas práticas desde os primeiros programas.
 
+Autora
 
-Autora:
-    Talita da Silveira Marroni
+Talita da Silveira Marroni
 
 GitHub
-
-                                                                continua em desenvolvimento
+Status: Em desenvolvimento 🚀
