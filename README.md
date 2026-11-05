@@ -7,7 +7,7 @@ Objetivo
 Exercícios
     Os exercícios estão sendo desenvolvidos em ordem crescente de dificuldade.
 
-    Exercícios concluídos
+Exercícios concluídos
     Exercício 001: Olá, Mundo!
     Exercício 002: Boas-vindas Personalizadas
     Exercício 003: Salário do Funcionário
@@ -24,6 +24,15 @@ Exercícios
     Exercício 014: Locação de Veículos
     Exercício 015: Salário por Dias Trabalhados
     Exercício 016: Redução do Tempo de Vida de um Fumante
+    Exercício 017: Velocidade e Multa
+    Exercício 018: Verificação para Votação
+    Exercício 019: Média Escolar com Avaliação
+    Exercício 020: Número Par ou Ímpar
+    Exercício 021: Verificação de Ano Bissexto
+    Exercício 022: Alistamento Militar
+    Exercício 023: Desconto do Dia da Mulher
+    Exercício 024: Cálculo de Preço de Passagem
+    Exercício 025: Verificação de Formação de Triângulo
 
 
 Conteúdos Praticados
@@ -38,6 +47,11 @@ Conteúdos Praticados
     Manipulação de números reais
     Concatenação de textos
     Formatação de valores
+    Operadores relacionais (>, <, >=, <=, ==, !=)
+    Operadores lógicos (&& e ||)
+    Estruturas condicionais (if, else if e else)
+    Manipulação de textos com String
+    Manipulação de caracteres com char
     Gerenciamento de recursos com try-with-resources
 
 
@@ -47,15 +61,13 @@ Tecnologias Utilizadas
     Git
     GitHub
 
-    
+
 Aprendizados
     Este projeto faz parte da minha jornada de aprendizado em programação. Estou refazendo os exercícios desde o início para fortalecer minha base em Java, desenvolver o raciocínio lógico, melhorar a organização do código e criar o hábito de aplicar boas práticas desde os primeiros programas.
 
 Próximos Passos
     Continuar a resolução dos exercícios propostos, explorando novos conceitos da linguagem Java e aprimorando a lógica de programação a cada etapa.
 
-Autora
-Talita da Silveira Marroni
+Autora: Talita da Silveira Marroni
 
-GitHub
-Status: Em desenvolvimento 🚀
+Status: 🚀 Em desenvolvimento
