@@ -21,8 +21,8 @@ public class Exercicio033_EmprestimoBancario {
 
         double porcentagemSalario = salario * 0.30;
 
-        System.out.printf("O valor aprovado para parcela é de: %.2f%n", porcentagemSalario);
-        System.out.printf("Valor da parcela: %.2f%n", parcela);
+        System.out.printf("Limite máximo permitido para a parcela (30%% do salário): R$ %.2f%n", porcentagemSalario);
+        System.out.printf("Valor da parcela mensal: R$ %.2f%n", parcela);
         
         if (parcela <= porcentagemSalario){
             System.out.printf("Empréstimo Aprovado!");
