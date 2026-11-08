@@ -1,10 +1,13 @@
-===========================================================   Algoritmos Java   ===========================================================================
+Algoritmos Java
 
 Repositório dedicado à prática de Lógica de Programação e aos fundamentos da linguagem Java, por meio da resolução de exercícios progressivos.
 
-Objetivo: desenvolver e reforçar os conhecimentos em lógica de programação e sintaxe Java, praticando a resolução de problemas e aplicando boas práticas de desenvolvimento desde os primeiros programas.
+Objetivo:
 
-Exercícios: Os exercícios estão sendo desenvolvidos em ordem crescente de dificuldade.
+Desenvolver e reforçar os conhecimentos em lógica de programação e sintaxe Java, praticando a resolução de problemas e aplicando boas práticas de desenvolvimento desde os primeiros programas.
+
+Exercícios:
+Os exercícios estão sendo desenvolvidos em ordem crescente de dificuldade.
 
 Exercícios concluídos:
     - Exercício 001: Olá, Mundo!
@@ -32,6 +35,13 @@ Exercícios concluídos:
     - Exercício 023: Desconto do Dia da Mulher
     - Exercício 024: Cálculo de Preço de Passagem
     - Exercício 025: Verificação de Formação de Triângulo
+    - Exercício 026: Comparação de Números
+    - Exercício 027: Média Escolar com Situação do Aluno
+    - Exercício 028: Classificação de Terrenos
+    - Exercício 029: Reajuste Salarial por Tempo de Empresa
+    - Exercício 030: Classificação de Triângulos
+    - Exercício 031: Jogo JoKenPo
+    - Exercício 032: Jogo de Adivinhação
 
 
 Conteúdos Praticados:
@@ -49,12 +59,16 @@ Conteúdos Praticados:
     - Operadores relacionais (>, <, >=, <=, ==, !=)
     - Operadores lógicos (&& e ||)
     - Estruturas condicionais (if, else if e else)
+    - Estrutura condicional switch
     - Manipulação de textos com String
     - Manipulação de caracteres com char
+    - Geração de números aleatórios com Random
+    - Validação de dados de entrada
+    - Classificação e comparação de valores
     - Gerenciamento de recursos com try-with-resources
 
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
     - Java 21 (JDK)
     - Visual Studio Code
     - Git
@@ -62,7 +76,7 @@ Tecnologias Utilizadas
 
 
 Aprendizados: 
-    - Este projeto faz parte da minha jornada de aprendizado em programação. Estou refazendo os exercícios desde o início para fortalecer minha base em Java, desenvolver o raciocínio lógico, melhorar a organização do código e criar o hábito de aplicar boas práticas desde os primeiros programas.
+    - Este projeto faz parte da minha jornada de aprendizado em programação. Por meio da resolução progressiva de exercícios em Java, estou desenvolvendo habilidades em lógica de programação, tomada de decisão com estruturas condicionais, manipulação de dados, geração de números aleatórios e boas práticas de desenvolvimento. O objetivo é construir uma base sólida para estudos mais avançados em programação.
 
 Próximos Passos:
     - Continuar a resolução dos exercícios propostos, explorando novos conceitos da linguagem Java e aprimorando a lógica de programação a cada etapa.
