@@ -7,6 +7,7 @@ Objetivo:
 Desenvolver e reforçar os conhecimentos em lógica de programação e sintaxe Java, praticando a resolução de problemas e aplicando boas práticas de desenvolvimento desde os primeiros programas.
 
 Exercícios:
+
 Os exercícios estão sendo desenvolvidos em ordem crescente de dificuldade.
 
 Exercícios concluídos:
@@ -42,6 +43,7 @@ Exercícios concluídos:
     - Exercício 030: Classificação de Triângulos
     - Exercício 031: Jogo JoKenPo
     - Exercício 032: Jogo de Adivinhação
+    - Exercício 033: Empréstimo Bancário para Compra de Casa
 
 
 Conteúdos Praticados:
@@ -65,7 +67,10 @@ Conteúdos Praticados:
     - Geração de números aleatórios com Random
     - Validação de dados de entrada
     - Classificação e comparação de valores
+    - Cálculo de prestações e financiamentos
+    - Tomada de decisão baseada em regras de negócio
     - Gerenciamento de recursos com try-with-resources
+    
 
 
 Tecnologias Utilizadas:
@@ -76,7 +81,7 @@ Tecnologias Utilizadas:
 
 
 Aprendizados: 
-    - Este projeto faz parte da minha jornada de aprendizado em programação. Por meio da resolução progressiva de exercícios em Java, estou desenvolvendo habilidades em lógica de programação, tomada de decisão com estruturas condicionais, manipulação de dados, geração de números aleatórios e boas práticas de desenvolvimento. O objetivo é construir uma base sólida para estudos mais avançados em programação.
+    - Este projeto faz parte da minha jornada de aprendizado em programação. Por meio da resolução progressiva de exercícios em Java, estou desenvolvendo habilidades em lógica de programação, estruturas condicionais, manipulação de dados, cálculos matemáticos, validação de entradas, geração de números aleatórios e resolução de problemas. O objetivo é construir uma base sólida para estudos mais avançados em Java e desenvolvimento de software.
 
 Próximos Passos:
     - Continuar a resolução dos exercícios propostos, explorando novos conceitos da linguagem Java e aprimorando a lógica de programação a cada etapa.
